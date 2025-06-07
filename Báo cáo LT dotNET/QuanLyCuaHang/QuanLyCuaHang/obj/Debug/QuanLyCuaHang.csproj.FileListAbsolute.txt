@@ -1,0 +1,145 @@
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+D:\Báo cáo .NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Báo cáo Test\23004308_HUYNHTANDAT\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Báo cáo Test\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\PC01\Downloads\Báo cáo T.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThongKe.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThongKe.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThongKe.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThongKe.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT.NET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe.config
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmChiTietHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangKy.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDangNhap.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMenu.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyHangHoa.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyKhachHang.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmQuanLyNhanVien.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThanhToanHoaDon.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmThongKe.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\triet\Desktop\Báo cáo LT dotNET\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
